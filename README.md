@@ -1,8 +1,9 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# C# Projects
 
-# Project Name
+> String Manipulation in C#: Develop a WordWand App
+> Game Bots in C#: Develop a Tic-Tac-Toe Agent
+> APIs in C#: Create a Student Management API
 
-> One paragraph statement about the project.
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,7 +11,7 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
+- Major languages: C#
 - Frameworks
 - Technologies used
 
@@ -43,17 +44,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Syeda Juveria Afreen (SJA)**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/sja-thedude)
+- Twitter: [@twitterhandle](https://twitter.com/sja_thedude)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sja-thedude/)
 
 ## 🤝 Contributing
 
