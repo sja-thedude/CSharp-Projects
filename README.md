@@ -1,8 +1,10 @@
 # C# Projects
 
-> String Manipulation in C#: Develop a WordWand App
-> Game Bots in C#: Develop a Tic-Tac-Toe Agent
-> APIs in C#: Create a Student Management API
+1. String Manipulation in C#: Develop a WordWand App
+
+2. Game Bots in C#: Develop a Tic-Tac-Toe Agent
+
+3. APIs in C#: Create a Student Management API
 
 
 ![screenshot](./app_screenshot.png)
