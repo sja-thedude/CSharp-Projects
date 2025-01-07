@@ -1,0 +1,14 @@
+/home/mo/Desktop/Strings Project/Practice-Lab/HappyBirthday/obj/Debug/net8.0/HappyBirthday.GeneratedMSBuildEditorConfig.editorconfig
+/home/mo/Desktop/Strings Project/Practice-Lab/HappyBirthday/obj/Debug/net8.0/HappyBirthday.AssemblyInfoInputs.cache
+/home/mo/Desktop/Strings Project/Practice-Lab/HappyBirthday/obj/Debug/net8.0/HappyBirthday.AssemblyInfo.cs
+/home/mo/Desktop/Strings Project/Practice-Lab/HappyBirthday/obj/Debug/net8.0/HappyBirthday.csproj.CoreCompileInputs.cache
+/home/mo/Desktop/Strings Project/Practice-Lab/HappyBirthday/bin/Debug/net8.0/HappyBirthday
+/home/mo/Desktop/Strings Project/Practice-Lab/HappyBirthday/bin/Debug/net8.0/HappyBirthday.deps.json
+/home/mo/Desktop/Strings Project/Practice-Lab/HappyBirthday/bin/Debug/net8.0/HappyBirthday.runtimeconfig.json
+/home/mo/Desktop/Strings Project/Practice-Lab/HappyBirthday/bin/Debug/net8.0/HappyBirthday.dll
+/home/mo/Desktop/Strings Project/Practice-Lab/HappyBirthday/bin/Debug/net8.0/HappyBirthday.pdb
+/home/mo/Desktop/Strings Project/Practice-Lab/HappyBirthday/obj/Debug/net8.0/HappyBirthday.dll
+/home/mo/Desktop/Strings Project/Practice-Lab/HappyBirthday/obj/Debug/net8.0/refint/HappyBirthday.dll
+/home/mo/Desktop/Strings Project/Practice-Lab/HappyBirthday/obj/Debug/net8.0/HappyBirthday.pdb
+/home/mo/Desktop/Strings Project/Practice-Lab/HappyBirthday/obj/Debug/net8.0/HappyBirthday.genruntimeconfig.cache
+/home/mo/Desktop/Strings Project/Practice-Lab/HappyBirthday/obj/Debug/net8.0/ref/HappyBirthday.dll

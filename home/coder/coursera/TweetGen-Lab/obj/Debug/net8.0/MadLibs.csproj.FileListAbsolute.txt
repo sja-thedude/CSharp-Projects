@@ -1,0 +1,370 @@
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/MadLibs
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Resources/poems.txt
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Resources/questions.txt
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Resources/titles.txt
+638512174529416394
+638512176948373855
+638512178139258654
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Poems/Aching Beauty in Letting Go  by Mo 638512155157820539
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Poems/Ode to the Unbreakable [NOUN]  by Mo 638512164266704264
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Poems/The Unraveling [NOUN] of the Heart  by Mo 638512159646166416
+638512171710018181
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/MadLibs.deps.json
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/MadLibs.runtimeconfig.json
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/MadLibs.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/MadLibs.pdb
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Catalyst.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Catalyst.Models.English.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/HtmlAgilityPack.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/MessagePack.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/MessagePack.Annotations.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.ML.Core.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.ML.Data.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.ML.KMeansClustering.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.ML.PCA.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.ML.StandardTrainers.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.ML.Transforms.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.ML.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.ML.CpuMath.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.ML.DataView.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.Recognizers.Definitions.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.Recognizers.Text.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.Recognizers.Text.DateTime.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.Recognizers.Text.Number.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Microsoft.Recognizers.Text.NumberWithUnit.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Mosaik.Core.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Nito.AsyncEx.Context.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Nito.AsyncEx.Coordination.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Nito.AsyncEx.Interop.WaitHandles.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Nito.AsyncEx.Oop.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Nito.AsyncEx.Tasks.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Nito.Cancellation.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Nito.Collections.Deque.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Nito.Disposables.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/ICSharpCode.SharpZipLib.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/System.CodeDom.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/runtimes/linux-arm/native/libLdaNative.so
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/runtimes/linux-arm64/native/libLdaNative.so
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/runtimes/linux-x64/native/libLdaNative.so
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/runtimes/osx-arm64/native/libLdaNative.dylib
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/runtimes/osx-x64/native/libLdaNative.dylib
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/runtimes/win-x64/native/LdaNative.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/runtimes/win-x86/native/LdaNative.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/obj/Debug/net8.0/MadLibs.csproj.AssemblyReference.cache
+/home/mo/Desktop/Strings Project/App/MadLibs/obj/Debug/net8.0/MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+/home/mo/Desktop/Strings Project/App/MadLibs/obj/Debug/net8.0/MadLibs.AssemblyInfoInputs.cache
+/home/mo/Desktop/Strings Project/App/MadLibs/obj/Debug/net8.0/MadLibs.AssemblyInfo.cs
+/home/mo/Desktop/Strings Project/App/MadLibs/obj/Debug/net8.0/MadLibs.csproj.CoreCompileInputs.cache
+/home/mo/Desktop/Strings Project/App/MadLibs/obj/Debug/net8.0/MadLibs.csproj.CopyComplete
+/home/mo/Desktop/Strings Project/App/MadLibs/obj/Debug/net8.0/MadLibs.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/obj/Debug/net8.0/refint/MadLibs.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/obj/Debug/net8.0/MadLibs.pdb
+/home/mo/Desktop/Strings Project/App/MadLibs/obj/Debug/net8.0/MadLibs.genruntimeconfig.cache
+/home/mo/Desktop/Strings Project/App/MadLibs/obj/Debug/net8.0/ref/MadLibs.dll
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Poems/A Constellation Carved in glow  by Mo
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Poems/A Eulogy for a Lost World  by Mo
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Poems/A Lullaby Sung by the Wind  by Mo
+/home/mo/Desktop/Strings Project/App/MadLibs/bin/Debug/net8.0/Poems/Where Stories are Whispered on the Wind  by Mo
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/MadLibs
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Resources/poems.txt
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Resources/questions.txt
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Resources/titles.txt
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Poems/Aching Beauty in Letting Go  by Mo 638512155157820539
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Poems/Ode to the Unbreakable [NOUN]  by Mo 638512164266704264
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Poems/The Unraveling [NOUN] of the Heart  by Mo 638512159646166416
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/MadLibs.deps.json
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/MadLibs.runtimeconfig.json
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/MadLibs.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/MadLibs.pdb
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Catalyst.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Catalyst.Models.English.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/HtmlAgilityPack.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/MessagePack.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/MessagePack.Annotations.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.ML.Core.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.ML.Data.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.ML.KMeansClustering.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.ML.PCA.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.ML.StandardTrainers.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.ML.Transforms.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.ML.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.ML.CpuMath.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.ML.DataView.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.Recognizers.Definitions.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.Recognizers.Text.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.Recognizers.Text.DateTime.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.Recognizers.Text.Number.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Microsoft.Recognizers.Text.NumberWithUnit.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Mosaik.Core.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Nito.AsyncEx.Context.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Nito.AsyncEx.Coordination.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Nito.AsyncEx.Interop.WaitHandles.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Nito.AsyncEx.Oop.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Nito.AsyncEx.Tasks.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Nito.Cancellation.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Nito.Collections.Deque.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Nito.Disposables.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/ICSharpCode.SharpZipLib.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/System.CodeDom.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/runtimes/linux-arm/native/libLdaNative.so
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/runtimes/linux-arm64/native/libLdaNative.so
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/runtimes/linux-x64/native/libLdaNative.so
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/runtimes/osx-arm64/native/libLdaNative.dylib
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/runtimes/osx-x64/native/libLdaNative.dylib
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/runtimes/win-x64/native/LdaNative.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/runtimes/win-x86/native/LdaNative.dll
+/home/mo/Desktop/Strings Project/MadLibs/obj/Debug/net8.0/MadLibs.csproj.AssemblyReference.cache
+/home/mo/Desktop/Strings Project/MadLibs/obj/Debug/net8.0/MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+/home/mo/Desktop/Strings Project/MadLibs/obj/Debug/net8.0/MadLibs.AssemblyInfoInputs.cache
+/home/mo/Desktop/Strings Project/MadLibs/obj/Debug/net8.0/MadLibs.AssemblyInfo.cs
+/home/mo/Desktop/Strings Project/MadLibs/obj/Debug/net8.0/MadLibs.csproj.CoreCompileInputs.cache
+/home/mo/Desktop/Strings Project/MadLibs/obj/Debug/net8.0/MadLibs.csproj.CopyComplete
+/home/mo/Desktop/Strings Project/MadLibs/obj/Debug/net8.0/MadLibs.dll
+/home/mo/Desktop/Strings Project/MadLibs/obj/Debug/net8.0/refint/MadLibs.dll
+/home/mo/Desktop/Strings Project/MadLibs/obj/Debug/net8.0/MadLibs.pdb
+/home/mo/Desktop/Strings Project/MadLibs/obj/Debug/net8.0/MadLibs.genruntimeconfig.cache
+/home/mo/Desktop/Strings Project/MadLibs/obj/Debug/net8.0/ref/MadLibs.dll
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Poems/A Constellation Carved in glow  by Mo
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Poems/A Eulogy for a Lost World  by Mo
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Poems/A Lullaby Sung by the Wind  by Mo
+/home/mo/Desktop/Strings Project/MadLibs/bin/Debug/net8.0/Poems/Where Stories are Whispered on the Wind  by Mo
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/obj/Debug/net8.0/MadLibs.csproj.AssemblyReference.cache
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/obj/Debug/net8.0/MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/obj/Debug/net8.0/MadLibs.AssemblyInfoInputs.cache
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/obj/Debug/net8.0/MadLibs.AssemblyInfo.cs
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/obj/Debug/net8.0/MadLibs.csproj.CoreCompileInputs.cache
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/obj/Debug/net8.0/MadLibs.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/obj/Debug/net8.0/refint/MadLibs.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/obj/Debug/net8.0/MadLibs.pdb
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/MadLibs
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Resources/poems.txt
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Resources/questions.txt
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Resources/titles.txt
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Poems/Aching Beauty in Letting Go  by Mo 638512155157820539
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Poems/Ode to the Unbreakable [NOUN]  by Mo 638512164266704264
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Poems/The Unraveling [NOUN] of the Heart  by Mo 638512159646166416
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/MadLibs.deps.json
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/MadLibs.runtimeconfig.json
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/MadLibs.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/MadLibs.pdb
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Catalyst.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Catalyst.Models.English.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/HtmlAgilityPack.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/MessagePack.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/MessagePack.Annotations.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.ML.Core.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.ML.Data.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.ML.KMeansClustering.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.ML.PCA.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.ML.StandardTrainers.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.ML.Transforms.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.ML.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.ML.CpuMath.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.ML.DataView.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.Recognizers.Definitions.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.Recognizers.Text.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.Recognizers.Text.DateTime.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.Recognizers.Text.Number.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Microsoft.Recognizers.Text.NumberWithUnit.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Mosaik.Core.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Nito.AsyncEx.Context.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Nito.AsyncEx.Coordination.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Nito.AsyncEx.Interop.WaitHandles.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Nito.AsyncEx.Oop.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Nito.AsyncEx.Tasks.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Nito.Cancellation.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Nito.Collections.Deque.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Nito.Disposables.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/ICSharpCode.SharpZipLib.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/System.CodeDom.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/runtimes/linux-arm/native/libLdaNative.so
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/runtimes/linux-arm64/native/libLdaNative.so
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/runtimes/linux-x64/native/libLdaNative.so
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/runtimes/osx-arm64/native/libLdaNative.dylib
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/runtimes/osx-x64/native/libLdaNative.dylib
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/runtimes/win-x64/native/LdaNative.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/runtimes/win-x86/native/LdaNative.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/obj/Debug/net8.0/MadLibs.csproj.CopyComplete
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/obj/Debug/net8.0/MadLibs.genruntimeconfig.cache
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/obj/Debug/net8.0/ref/MadLibs.dll
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Poems/A Constellation Carved in glow  by Mo
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Poems/A Eulogy for a Lost World  by Mo
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Poems/A Lullaby Sung by the Wind  by Mo
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Poems/The Forgotten Melody by Mo
+638519646552578171
+/home/mo/Desktop/Strings Project/MadLibs (Complete)/bin/Debug/net8.0/Poems/Where Stories are Whispered on the Wind  by Mo
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/MadLibs
+638519677055651621
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/MadLibs.deps.json
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/MadLibs.runtimeconfig.json
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/MadLibs.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/MadLibs.pdb
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Catalyst.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Catalyst.Models.English.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/HtmlAgilityPack.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/MessagePack.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/MessagePack.Annotations.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.ML.Core.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.ML.Data.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.ML.KMeansClustering.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.ML.PCA.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.ML.StandardTrainers.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.ML.Transforms.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.ML.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.ML.CpuMath.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.ML.DataView.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.Recognizers.Definitions.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.Recognizers.Text.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.Recognizers.Text.DateTime.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.Recognizers.Text.Number.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Microsoft.Recognizers.Text.NumberWithUnit.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Mosaik.Core.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Nito.AsyncEx.Context.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Nito.AsyncEx.Coordination.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Nito.AsyncEx.Interop.WaitHandles.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Nito.AsyncEx.Oop.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Nito.AsyncEx.Tasks.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Nito.Cancellation.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Nito.Collections.Deque.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Nito.Disposables.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/ICSharpCode.SharpZipLib.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/System.CodeDom.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/runtimes/linux-arm/native/libLdaNative.so
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/runtimes/linux-arm64/native/libLdaNative.so
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/runtimes/linux-x64/native/libLdaNative.so
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/runtimes/osx-arm64/native/libLdaNative.dylib
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/runtimes/osx-x64/native/libLdaNative.dylib
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/runtimes/win-x64/native/LdaNative.dll
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/runtimes/win-x86/native/LdaNative.dll
+/home/mo/Desktop/Strings Project/TweetGen/obj/Debug/net8.0/MadLibs.csproj.AssemblyReference.cache
+/home/mo/Desktop/Strings Project/TweetGen/obj/Debug/net8.0/MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+/home/mo/Desktop/Strings Project/TweetGen/obj/Debug/net8.0/MadLibs.AssemblyInfoInputs.cache
+/home/mo/Desktop/Strings Project/TweetGen/obj/Debug/net8.0/MadLibs.AssemblyInfo.cs
+/home/mo/Desktop/Strings Project/TweetGen/obj/Debug/net8.0/MadLibs.csproj.CoreCompileInputs.cache
+/home/mo/Desktop/Strings Project/TweetGen/obj/Debug/net8.0/MadLibs.csproj.CopyComplete
+/home/mo/Desktop/Strings Project/TweetGen/obj/Debug/net8.0/MadLibs.dll
+/home/mo/Desktop/Strings Project/TweetGen/obj/Debug/net8.0/refint/MadLibs.dll
+/home/mo/Desktop/Strings Project/TweetGen/obj/Debug/net8.0/MadLibs.pdb
+/home/mo/Desktop/Strings Project/TweetGen/obj/Debug/net8.0/MadLibs.genruntimeconfig.cache
+/home/mo/Desktop/Strings Project/TweetGen/obj/Debug/net8.0/ref/MadLibs.dll
+638524199396191633
+.txt 638524212701285483
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Resources/tags.txt
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Resources/tweets.txt
+638524316425966861 .txt
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Tweets/#My Smartwatch Life #Smartwatch Memories #My Smartwatch  638524521397590571 .txt
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Tweets/Coolgiz 638528605839861247 .txt
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Tweets/Coolwiz 638528608239811868 .txt
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Tweets/The Laughter of assistant  by mo
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Tweets/Where smartwatch Take Flight on Butterfly Wings  by Mo
+/home/mo/Desktop/Strings Project/TweetGen/bin/Debug/net8.0/Tweets/WizWiz 638528617119810838 .txt
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/MadLibs
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Resources/tags.txt
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Resources/tweets.txt
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Tweets/#My Smartwatch Life #Smartwatch Memories #My Smartwatch  638524521397590571 .txt
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Tweets/Coolgiz 638528605839861247 .txt
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Tweets/Coolwiz 638528608239811868 .txt
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Tweets/WizWiz 638528617119810838 .txt
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/MadLibs.deps.json
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/MadLibs.runtimeconfig.json
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/MadLibs.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/MadLibs.pdb
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Catalyst.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Catalyst.Models.English.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/HtmlAgilityPack.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/MessagePack.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/MessagePack.Annotations.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.ML.Core.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.ML.Data.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.ML.KMeansClustering.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.ML.PCA.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.ML.StandardTrainers.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.ML.Transforms.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.ML.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.ML.CpuMath.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.ML.DataView.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.Recognizers.Definitions.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.Recognizers.Text.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.Recognizers.Text.DateTime.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.Recognizers.Text.Number.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Microsoft.Recognizers.Text.NumberWithUnit.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Mosaik.Core.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Nito.AsyncEx.Context.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Nito.AsyncEx.Coordination.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Nito.AsyncEx.Interop.WaitHandles.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Nito.AsyncEx.Oop.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Nito.AsyncEx.Tasks.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Nito.Cancellation.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Nito.Collections.Deque.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Nito.Disposables.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/ICSharpCode.SharpZipLib.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/System.CodeDom.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/runtimes/linux-arm/native/libLdaNative.so
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/runtimes/linux-arm64/native/libLdaNative.so
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/runtimes/linux-x64/native/libLdaNative.so
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/runtimes/osx-arm64/native/libLdaNative.dylib
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/runtimes/osx-x64/native/libLdaNative.dylib
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/runtimes/win-x64/native/LdaNative.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/runtimes/win-x86/native/LdaNative.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/obj/Debug/net8.0/MadLibs.csproj.AssemblyReference.cache
+/home/mo/Desktop/Strings Project/TweetGen-Lab/obj/Debug/net8.0/MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+/home/mo/Desktop/Strings Project/TweetGen-Lab/obj/Debug/net8.0/MadLibs.AssemblyInfoInputs.cache
+/home/mo/Desktop/Strings Project/TweetGen-Lab/obj/Debug/net8.0/MadLibs.AssemblyInfo.cs
+/home/mo/Desktop/Strings Project/TweetGen-Lab/obj/Debug/net8.0/MadLibs.csproj.CoreCompileInputs.cache
+/home/mo/Desktop/Strings Project/TweetGen-Lab/obj/Debug/net8.0/MadLibs.csproj.CopyComplete
+/home/mo/Desktop/Strings Project/TweetGen-Lab/obj/Debug/net8.0/MadLibs.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/obj/Debug/net8.0/refint/MadLibs.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/obj/Debug/net8.0/MadLibs.pdb
+/home/mo/Desktop/Strings Project/TweetGen-Lab/obj/Debug/net8.0/MadLibs.genruntimeconfig.cache
+/home/mo/Desktop/Strings Project/TweetGen-Lab/obj/Debug/net8.0/ref/MadLibs.dll
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Tweets/WatchyWiz 638529602262098140 .txt
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Tweets/StaryWatch 638529614427087460 .txt
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Tweets/The Laughter of assistant  by mo
+ 638524316425966861 .txt
+/home/mo/Desktop/Strings Project/TweetGen-Lab/bin/Debug/net8.0/Tweets/Where smartwatch Take Flight on Butterfly Wings  by Mo
+.txt 638524212701285483

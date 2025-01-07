@@ -1,0 +1,76 @@
+/home/mo/Desktop/Strings Project/App/Example/obj/Debug/net8.0/Example.csproj.AssemblyReference.cache
+/home/mo/Desktop/Strings Project/App/Example/obj/Debug/net8.0/Example.GeneratedMSBuildEditorConfig.editorconfig
+/home/mo/Desktop/Strings Project/App/Example/obj/Debug/net8.0/Example.AssemblyInfoInputs.cache
+/home/mo/Desktop/Strings Project/App/Example/obj/Debug/net8.0/Example.AssemblyInfo.cs
+/home/mo/Desktop/Strings Project/App/Example/obj/Debug/net8.0/Example.csproj.CoreCompileInputs.cache
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Example
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Resources/poems.txt
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Resources/questions.txt
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Resources/titles.txt
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Example.deps.json
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Example.runtimeconfig.json
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Example.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Example.pdb
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Catalyst.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/HtmlAgilityPack.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/MessagePack.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/MessagePack.Annotations.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.ML.Core.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.ML.Data.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.ML.KMeansClustering.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.ML.PCA.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.ML.StandardTrainers.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.ML.Transforms.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.ML.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.ML.CpuMath.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.ML.DataView.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.Recognizers.Definitions.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.Recognizers.Text.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.Recognizers.Text.DateTime.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.Recognizers.Text.Number.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Microsoft.Recognizers.Text.NumberWithUnit.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Mosaik.Core.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Nito.AsyncEx.Context.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Nito.AsyncEx.Coordination.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Nito.AsyncEx.Interop.WaitHandles.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Nito.AsyncEx.Oop.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Nito.AsyncEx.Tasks.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Nito.Cancellation.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Nito.Collections.Deque.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Nito.Disposables.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/ICSharpCode.SharpZipLib.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/System.CodeDom.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/runtimes/linux-arm/native/libLdaNative.so
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/runtimes/linux-arm64/native/libLdaNative.so
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/runtimes/linux-x64/native/libLdaNative.so
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/runtimes/osx-arm64/native/libLdaNative.dylib
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/runtimes/osx-x64/native/libLdaNative.dylib
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/runtimes/win-x64/native/LdaNative.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/runtimes/win-x86/native/LdaNative.dll
+/home/mo/Desktop/Strings Project/App/Example/obj/Debug/net8.0/Example.csproj.CopyComplete
+/home/mo/Desktop/Strings Project/App/Example/obj/Debug/net8.0/Example.dll
+/home/mo/Desktop/Strings Project/App/Example/obj/Debug/net8.0/refint/Example.dll
+/home/mo/Desktop/Strings Project/App/Example/obj/Debug/net8.0/Example.pdb
+/home/mo/Desktop/Strings Project/App/Example/obj/Debug/net8.0/Example.genruntimeconfig.cache
+/home/mo/Desktop/Strings Project/App/Example/obj/Debug/net8.0/ref/Example.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Catalyst.Models.English.dll
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Poems/Aching Beauty in Letting Go  by Mo 638512155157820539
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Poems/The Unraveling [NOUN] of the Heart  by Mo 638512159646166416
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Poems/Ode to the Unbreakable [NOUN]  by Mo 638512164266704264
+638512171710018181
+638512174529416394
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Poems/A Constellation Carved in glow  by Mo
+ 638512174529416394
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Poems/A Eulogy for a Lost World  by Mo
+ 638512176948373855
+/home/mo/Desktop/Strings Project/App/Example/bin/Debug/net8.0/Poems/Where Stories are Whispered on the Wind  by Mo
+ 638512171710018181
